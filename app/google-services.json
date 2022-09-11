@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1042304511008",
+    "project_id": "authfullwiithprofile",
+    "storage_bucket": "authfullwiithprofile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042304511008:android:574246cd833f52518e6045",
+        "android_client_info": {
+          "package_name": "com.example.hello"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042304511008-gu1p7nm5uc0c4l1h954ppp9l0bsvgq2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeGDzLV5wv2ms461ZaqzUg0qcTMhtZbpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042304511008-gu1p7nm5uc0c4l1h954ppp9l0bsvgq2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
